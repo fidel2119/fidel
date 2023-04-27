@@ -1,0 +1,148 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+#titulo1{
+	background-color: gray;
+	color: cyan;
+	width: 80%;
+	padding: 10px 15px;
+	margin: 8%;
+	margin-top: 10px;
+	border-radius: 25px;
+	text-align: center;
+}
+#texto1{
+	background-color: black;
+	color: white;
+	padding: 15px;
+	margin: 10px;
+	width: 60%;
+	height: 1300px;
+	text-align: justify;
+	float: left;
+	font-family: cursive;
+	text-align: justify;
+
+}
+#texto1_1{
+	background-color:rgba(0,50,200,0.4);
+}
+#texto_software{
+margin: 20px;
+padding: 10px;
+float: right;
+background-image: url(imagenes_de_mi_pagina_web/progra_2.jpg);
+color: white;
+width: 33%;
+height: 1300px;
+text-transform: uppercase;
+font-family: "nimbus sans l", sans-serif;
+}
+#piedepagina{
+	background-color: red;
+	margin: 50px;
+	margin-bottom: 10px;
+	margin-top: 1550px;
+}
+#cuerpo_AL{
+	background-image: url("imagenes_de_mi_pagina_web/steve_jobs1.jpg");
+}
+#AL1{background-color: cyan;
+margin: auto;
+background-position: center;
+width: 80%;
+border-radius: 12px;
+}
+#AL_texto1{
+	margin: 100px;
+	padding: 10px;
+	text-align: justify;
+	margin: 12px;
+	padding: 10px;
+	width: 60%;
+	height: 80%;
+	color: blue;
+	background-image: url(imagenes_de_mi_pagina_web/steve_jobs3.jpg);
+	border-radius: 15px;
+}
+#piedepagina_AL{
+	background-color: gray;
+	text-align: center;
+	margin-bottom: 15px;
+	margin-top: 250px;
+}
+#bio_cuerpo{
+	background-color: gray;
+}
+#bio_1{
+
+}
+#bio_1_t{
+	background-color: blue;
+	margin: 10px;
+	padding: 15px;
+	border-radius: 15px;
+	width: 50%;
+	margin-left: 25%;
+}
+#bio_1_texto{
+	background-image: url(imagenes_de_mi_pagina_web/steve_jobs4.jpg);
+	margin: 15px;
+	padding: 10px;
+	width: 30%;
+	float: left;
+	font-family: "dejavu sans mono", monospace;
+	color: white;
+	text-transform: lowercase;
+	text-align: justify;
+
+}
+#bio_2_texto{
+	background-image: url(imagenes_de_mi_pagina_web/jobs_steve5.jpg);
+	margin: 15px;
+	padding: 10px;
+	width: 60%;
+	float: right;
+    color: blue;
+    margin-bottom: 15px;
+}
+#bio_3_texto{
+	background-color: skyblue;
+	margin-top: 50%;
+	padding: 10px;
+	margin: 15px;
+}
+#pie_pagina_bio{
+	background-color: cyan;
+	margin-top: 750px;
+}
+footer{
+	text-align: center;
+	margin-bottom: 15px;
+}
+nav{
+padding: 5px;
+text-align: center;
+}
+nav a{
+	font-family: "papyrus", fantasy;
+	border: solid;
+	text-decoration: none;
+
+
+}
+nav li{
+	display: inline-block;
+	background-color: skyblue;
+
+}
+nav a:hover{background-color: blue;}
+h1{
+	font-family: "harrintong", fantasy;
+	text-align: center;
+	
+}
+aside{
+
+}
